@@ -20,7 +20,7 @@ export function Footer() {
               href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
               className="mx-3 font-bold hover:underline"
             >
-              @2025 Copyright 91dfj.org.com
+              ©2025 Copyright 91dfj.org
             </a>
           </div>
         </div>
